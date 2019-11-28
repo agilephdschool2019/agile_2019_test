@@ -4,10 +4,6 @@ author: "Yannis Paraskevopoulos"
 date: "25-28 November 2019"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Department of Geography, University of Tartu, Estonia
 
 ## Short project description 
