@@ -1,6 +1,7 @@
 ---
 title: "Agile PhD School 2019"
 author: "Yannis Paraskevopoulos"
+place: "Department of Geography, University of Tartu, Estonia"
 date: "25-28 November 2019"
 ---
 
