@@ -2,16 +2,11 @@
 title: "Agile PhD School 2019"
 author: "Yannis Paraskevopoulos"
 date: "25-28 November 2019"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-<style>
-body {
-text-align: justify}
-</style>
 
 Department of Geography, University of Tartu, Estonia
 
