@@ -1,4 +1,4 @@
-# agile_2019_test
+# agile2019test
 **Agile Phd Shool 2019**
 
 Tartu, Estonia, November, 25-28 November 2019
