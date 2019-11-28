@@ -37,4 +37,6 @@ Alexander, C., Ishikawa, S. & Silverstein, M., 1977. A Pattern Language: Towns, 
 Jacobs, J., 1961. The Death and Life of Great American Cities. New York: Random House.
 
 Gehl, J., 2010. Cities for People. London: Island Press
+
+
 licence: CC-BY-4.0
