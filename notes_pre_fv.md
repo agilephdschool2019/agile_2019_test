@@ -1,0 +1,42 @@
+---
+title: "Agile PhD School 2019"
+author: "Yannis Paraskevopoulos"
+place: "Department of Geography, University of Tartu, Estonia"
+date: "25-28 November 2019"
+---
+
+## Short project description 
+City is the spatial setting of society and "the place where all kinds and classes of people are mixed so as to produce a common, though constantly changing and ephemeral life" (Harvey, 2012), forcing this heterogeneous ensemble to interact (Sennet, 1977) . It constitutes the terrain of exchanges, activities, communication and a place of collective and organized life. The essential feature of urbanity is therefore “concentration and co-existence” (Lefebvre, 1968/1996)  and the local centres that emerge in a city, or “activity nodes” as termed by Alexander, et al. (1977), are at the epicenter of this process. These “activity nodes” beyond their role in city’s functionality, act as meeting points for citizens, where practices of encounter and exchange (economic, social etc.) take place, where “you can go to see people, and to be seen (…), the place where people with a shared way of life gather together to rub shoulders and confirm their communities” (Alexander, et al., 1977, p. 169). Therefore, a centre in order to be meaningfully successful should be functional for its residents but also vibrant, attractive and accessible for all its users. It should promote active street life, animation in the street, dense and diverse human activity and movement, especially walking, and in summary to create what Jacobs (1961)  called “intricate sidewalk ballet” (p.50) of people walking around neighborhoods, at different times for different purposes and coined as urban vitality. My research focuses on introducing a different approach for understanding centralities, as human-oriented communal/public spaces and not only as commercial clusters. As places defined by co-existence and interaction; not only as “places with people” but as “places for people” (Gehl, 2010)  while providing a GIS-enabled analytical tool for reclaiming these places as “human” nodes where people can stroll, browse and wander
+As it is evident, there is substantial literature regarding the conceptualization of the centralities as places of human co-existence, however, the conventional quantitative approaches for identifying centralities, are either based on land-use analysis and predominantly on commercial density, or based on the morphological/configurational properties of urban environment; and therein lies a substantial research gap which my research addresses. To this end, this PhD project aims to quantitatively define centrality, as the measure of everyday co-existence and the centralities as the meeting places of the neighborhood, where people come to socialize and interact. Therefore, there are two main research questions: What makes a centrality “human-oriented” and how to quantitatively define human-oriented centralities in various socio-spatial environments? In this context, this research has two core objectives. Firstly, to introduce a composite human-oriented centrality index, for identifying and evaluating human-oriented centralities as vibrant communal places of co-existence centralities based on criteria regarding functional centrality, network centrality and accessible centrality. Secondly, to develop an easy–to-use, GIS-enabled, analytical tool that integrates spatial analysis to urban design and planning process towards “human-scale”, functional and vibrant centralities.
+
+![Conceptualization of the Composite human-oriented Centrality index](Graph_v2.png) 
+
+## Visualisation
+
+Spatiotemporal visualizations can be an extremely powerful communication tool especially in the context of animated graphs. Since a component of my research refers to the development of a thematic WebGIS platform towards human-oriented centralities that function in different spatial scales, I will explore using animated graphs in order to illustrate the different centrality scales of a city. Furthermore, human activity and movement in urban space is at the core of my project and spatiotemporal animated graphs could be created in order to depict the broader spatiotemporal context that is created by the rhythms of everyday life (e.g. trajectories of work and entertainment, movements of public transportation).              
+
+
+## Reproducibility 
+
+At the forefront of this project is to create an easy-to-use and easy-to-understand analytical tool that it could provide comprehensive results that can be intuitively understood by non-experts but also could be easily reproducible by the Communities of Practice (CoP). However, the spatial resolution of this research dictates data availability at block level or higher (street-level or building-level) making data collection and reproducibility a demanding and excluding process. However, since we want, to create an accessible tool in terms of methods and data availability and reproducibility, we will try to exclusively using freely available data (e.g. OSM for points of interest, public spaces, and urban network & Urban Atlas for urban blocks). What is more, a manual will be created which will explicitly explain proposed workflow along with the software and hardware requirements. Furthermore, the datasets used in the research project (raw, intermediate and final) will be uploaded at a research repository accompanied by a readme file explaining the fields of each dataset, ensuring that the proposed methodological pipeline could be entirely reproducible and replica table. The license that will be issued with the outputs of the research will be selected in way that will ensure open use for any non-commercial use. (e.g. Creative Commons Attribution 4.0 International)     
+
+## Science Communication 
+
+The current research project has to overcome a substantial challenge. It needs to address an extremely diverse and to an extent contradictory audience, since we propose a quantitative "solution" in a socio-oriented "approach" of the urban environment. Therefore, we need to develop a different language and almost a different narrative in order to be able to interact and communicate with the different relevant audiences. Specifically, we need to establish a simpler and conceptual "vocabulary" regarding the audience originating from architecture, sociology or urban planning background. On the other hand, a more compact and technically sophisticated language need to be used regarding relevant scientific audience with engineering or geospatial background. Finally, a completely different narrative need to cultivated regarding citizens, authorities and generally non-scientific community since the proposed research aims to invite authorities, planning practitioners and citizens to work towards human-scale and livable public space that can be incorporated in everyday life.
+
+## References
+
+Harvey, D., 2012. Rebel Cities. London: Verso
+
+Sennett, R., 1977. The Fall of Public Man. Cambridge: Cambridge University Press.
+
+Lefebvre, H., 1968/1996. The Right to the City. In: E. Kofman & E. Lebas, eds. Writings on Cities. Oxford: Blackwell, pp. 63-182.
+
+Alexander, C., Ishikawa, S. & Silverstein, M., 1977. A Pattern Language: Towns, Buildings, Construction. Oxford: Oxford University Press.
+
+Jacobs, J., 1961. The Death and Life of Great American Cities. New York: Random House.
+
+Gehl, J., 2010. Cities for People. London: Island Press
+
+
+licence: CC-BY-4.0
