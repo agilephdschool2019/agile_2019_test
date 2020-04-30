@@ -4,7 +4,7 @@ author:
   - name: Yannis Paraskevopoulos
     affiliation: National Technical University of Athens, Greece
     email: parask.yannis@gmail.com
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0002-2645-0099
 abstract: |
    City is the spatial setting of society and "the place where all kinds and classes of people are mixed so as to produce a common, though constantly changing and ephemeral life" (Harvey, 2012).
 output:
